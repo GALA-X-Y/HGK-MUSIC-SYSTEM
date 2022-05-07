@@ -1,4 +1,4 @@
-# **HGK Music System API**
+# **HGK Music System**
 ## Introduce you the **NEW** music plugin for your Discord bot
 ### Features of HGK Music System
 - Power by **Discord.py** / **Python**
