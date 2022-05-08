@@ -9,7 +9,7 @@
 Over **80%** of Discord Music Bot powered by **Discord.js** or **JDA (Java Discord API)**.  
 We provided you a choice by using **Discord.py**.  
 ### Already have a bot powered by Discord.py?  
-Don't worry, adding this plugin won't conflict with your own commands.$^1$  
+Don't worry, adding this plugin won't conflict with your own commands.[^1]  
 Simply follow steps below in **"Add as external cogs or extensions"**.
 
 ### Haven't had a bot yet?
@@ -29,7 +29,7 @@ To install extension upward (Besides FFmpeg) type in cmd:
 1. Installation of FFmpeg
 >1. Install the FFmpeg zip file from its [website](https://ffmpeg.org/download.html#build-windows).
 >2. Extract the zip if there is three components. (<kbd>ffmpeg.exe</kbd>, <kbd>ffprobe.exe</kbd>, <kbd>ffplay.exe</kbd>)  
->3. Copy <kbd>ffmpeg.exe</kbd> under your python path. (...\Python\Python39 $^2$\Script)
+>3. Copy <kbd>ffmpeg.exe</kbd> under your python path. (...\Python\Python39 [^2]\Script)
 2. Get your Discord bot token
 >1. Go [Discord Developer Portal](https://discord.com/developers/applications).
 >2. Click **New Application**.
@@ -47,5 +47,5 @@ To install extension upward (Besides FFmpeg) type in cmd:
 4. Check if you have installed all extension required and run your bot.
 5. Enjoy your music!
 
-##### $^1$: Commands like play, add, remove, queue, disconnect and etc. will conflict with the plugin.
-##### $^2$: Number after Python can be different depends on the versions. e.g. Python38, Python310
+[^1]: Commands like play, add, remove, queue, disconnect and etc. will conflict with the plugin.
+[^2]: Number after Python can be different depends on the versions. e.g. Python38, Python310
